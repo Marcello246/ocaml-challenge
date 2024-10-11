@@ -26,3 +26,4 @@ Recall that you can use any expression of type `bool` as a guard in a conditiona
 if 2 < 5 then 2 else 5;;
 if 5 < 2 then 2 else 5;;
 ```
+
